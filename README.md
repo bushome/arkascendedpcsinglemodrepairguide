@@ -13,6 +13,6 @@ _______  _____  ______        ______ _______  _____  _______ _____  ______
                                                                           
  ______ _     _ _____ ______  _______                                     
 |  ____ |     |   |   |     \ |______                                     
-|_____| |_____| __|__ |_____/ |______                                                                                                                                                      
+|_____| |_____| __|__ |_____/ |______  
 ```
 For the Ark Ascended mod repair guide go to the wiki https://github.com/bushome/arkascendedpcsinglemodrepairguide/wiki/Ark-Ascended-Surgical-Guide-to-fixing-singular-mods-on-PC
