@@ -15,4 +15,30 @@ _______  _____  ______        ______ _______  _____  _______ _____  ______
 |  ____ |     |   |   |     \ |______                                     
 |_____| |_____| __|__ |_____/ |______  
 ```
-For the Ark Ascended mod repair guide go to the wiki https://github.com/bushome/arkascendedpcsinglemodrepairguide/wiki/Ark-Ascended-Surgical-Guide-to-fixing-singular-mods-on-PC
+## ASA Mod Doctor (tool)
+
+A small Windows tool that shows the **real** state of every mod in your ARK: Survival Ascended mod library, and fixes the cases the game can't.
+
+**Download:** [latest release](https://github.com/bushome/arkascendedpcsinglemodrepairguide/releases/tag/Tool). Close ARK before making any changes.
+
+What it does:
+- **Finds broken mods the game shows as "installed":** interrupted downloads, mods stuck as Invalid, missing or damaged files, wrong versions.
+- **Fixes Invalid without re-downloading:** if a mod's files check out, it resets the mod to Normal.
+- **Removes any mod cleanly**, including cosmetics pulled in by dynamic downloading, which the game's mod browser doesn't show. One or many at a time. The folder goes to the Recycle Bin and a backup of your library is saved first.
+- **Shows what's hiding on your disk:** every dynamic download, which ones are Premium, and how much space they take.
+- **Checks files against CurseForge's own fingerprints**, the check the game skips.
+- **Keeps a history** of what the game changed in your library between launches.
+
+Works with Steam and Game Pass / Microsoft Store installs (PC only).
+
+## Cosmetics tip for 5.8
+
+- **Dynamic downloading downloads every cosmetic you see near other players' bases**, including Premium ones you don't own. They're downloaded in full but never listed in the mod browser.
+- **Suppressing a cosmetic** (Settings → General → Cosmetics) only hides it. It still downloads.
+- **To delete suppressed cosmetics**, go back to the **main menu** and press **"Uninstall suppressed cosmetics"**. The button doesn't appear during a session. It removes **every** suppressed cosmetic, including ones you own and installed yourself.
+- **To stop cosmetics downloading at all**, turn off dynamic downloading.
+
+## Fixing mods by hand
+
+The original step-by-step guide is in the wiki:
+https://github.com/bushome/arkascendedpcsinglemodrepairguide/wiki/Ark-Ascended-Surgical-Guide-to-fixing-singular-mods-on-PC
