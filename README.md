@@ -33,7 +33,7 @@ Works with Steam and Game Pass / Microsoft Store installs (PC only).
 
 ## Cosmetics tip for 5.8
 
-- **Dynamic downloading downloads every cosmetic you see near other players' bases**, including Premium ones you don't own. They're downloaded in full but never listed in the mod browser.
+- **Dynamic downloading downloads every cosmetic you see near other players' bases**, including Premium ones you don't own.
 - **Suppressing a cosmetic** (Settings → General → Cosmetics) only hides it. It still downloads.
 - **To delete suppressed cosmetics**, go back to the **main menu** and press **"Uninstall suppressed cosmetics"**. The button doesn't appear during a session. It removes **every** suppressed cosmetic, including ones you own and installed yourself.
 - **To stop cosmetics downloading at all**, turn off dynamic downloading.
