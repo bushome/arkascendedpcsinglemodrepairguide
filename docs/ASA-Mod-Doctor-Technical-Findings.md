@@ -159,6 +159,8 @@ The completed client candidate passes **131 regression scenarios**, including ac
 
 The separate C++ policy example compiles under MSVC C++17 with warnings treated as errors and passes 28 standalone policy checks. Its engine adapter is illustrative and has not been compiled or run inside ARK.
 
+Companion candidate identity: `AsaModDoctor-client-final-win-x64.zip`, executable version `0.2.0.0`; executable SHA-256 `725A706A563B96A9BD40B6C2BD08BB36F0003B49201E99CFC95087E786AC9A5E`. The exact ARK game executable build remains unrecorded.
+
 The Windows x64 package is self-contained with the .NET 10 Desktop Runtime. This document can describe a newer candidate than the binary currently attached to the public `Tool` release; consult the supplied package/build record when reproducing. Application source remains private. No raw sign-in material or private user libraries are required for the public bug report.
 
 The separate [startup proposal](Startup-Validation-Proposal.md) supplies an original, engine-independent C++ policy example and an integration sketch. It has no knowledge of ARK executable addresses, private headers or internal request origins.
