@@ -28,7 +28,7 @@ What it does:
 - **Fixes Invalid without re-downloading:** if a mod's files check out, it resets the mod to Normal.
 - **Removes any mod cleanly**, including cosmetics pulled in by dynamic downloading, which the game's mod browser doesn't show. One or many at a time. The folder goes to the Recycle Bin and a backup of your library is saved first.
 - **Shows what's hiding on your disk:** every dynamic download, which ones are Premium, and how much space they take.
-- **Checks files against CurseForge's own fingerprints**, the check the game skips.
+- **Checks file integrity** against the installed record's module fingerprints; see the technical report for tested behavior and limitations.
 - **Keeps a history** of what the game changed in your library between launches.
 
 Works with Steam and Game Pass / Microsoft Store installs (PC only).
