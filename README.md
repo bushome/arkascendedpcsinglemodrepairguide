@@ -21,6 +21,8 @@ A small Windows tool that shows the **real** state of every mod in your ARK: Sur
 
 **Download:** [latest release](https://github.com/bushome/arkascendedpcsinglemodrepairguide/releases/tag/Tool). Close ARK before making any changes.
 
+**Technical documentation:** [validation findings prepared for Wildcard review](docs/ASA-Mod-Doctor-Technical-Findings.md) and [C++ startup-validation proposal](docs/Startup-Validation-Proposal.md). The report distinguishes reproduced client behavior from hypotheses and describes the newer companion test candidate.
+
 What it does:
 - **Finds broken mods the game shows as "installed":** interrupted downloads, mods stuck as Invalid, missing or damaged files, wrong versions.
 - **Fixes Invalid without re-downloading:** if a mod's files check out, it resets the mod to Normal.
